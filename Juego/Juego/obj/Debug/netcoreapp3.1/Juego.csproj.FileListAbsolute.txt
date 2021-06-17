@@ -1,0 +1,13 @@
+C:\Users\Leo\source\repos\Juego\Juego\bin\Debug\netcoreapp3.1\Juego.exe
+C:\Users\Leo\source\repos\Juego\Juego\bin\Debug\netcoreapp3.1\Juego.deps.json
+C:\Users\Leo\source\repos\Juego\Juego\bin\Debug\netcoreapp3.1\Juego.runtimeconfig.json
+C:\Users\Leo\source\repos\Juego\Juego\bin\Debug\netcoreapp3.1\Juego.runtimeconfig.dev.json
+C:\Users\Leo\source\repos\Juego\Juego\bin\Debug\netcoreapp3.1\Juego.dll
+C:\Users\Leo\source\repos\Juego\Juego\bin\Debug\netcoreapp3.1\Juego.pdb
+C:\Users\Leo\source\repos\Juego\Juego\obj\Debug\netcoreapp3.1\Juego.csprojAssemblyReference.cache
+C:\Users\Leo\source\repos\Juego\Juego\obj\Debug\netcoreapp3.1\Juego.AssemblyInfoInputs.cache
+C:\Users\Leo\source\repos\Juego\Juego\obj\Debug\netcoreapp3.1\Juego.AssemblyInfo.cs
+C:\Users\Leo\source\repos\Juego\Juego\obj\Debug\netcoreapp3.1\Juego.csproj.CoreCompileInputs.cache
+C:\Users\Leo\source\repos\Juego\Juego\obj\Debug\netcoreapp3.1\Juego.dll
+C:\Users\Leo\source\repos\Juego\Juego\obj\Debug\netcoreapp3.1\Juego.pdb
+C:\Users\Leo\source\repos\Juego\Juego\obj\Debug\netcoreapp3.1\Juego.genruntimeconfig.cache
