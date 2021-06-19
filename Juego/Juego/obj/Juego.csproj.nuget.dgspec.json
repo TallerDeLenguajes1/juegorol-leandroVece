@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Leo\\source\\repos\\Juego\\Juego\\Juego.csproj": {}
+    "D:\\taller\\juegorol-leandroVece\\Juego\\Juego\\Juego.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Leo\\source\\repos\\Juego\\Juego\\Juego.csproj": {
+    "D:\\taller\\juegorol-leandroVece\\Juego\\Juego\\Juego.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Leo\\source\\repos\\Juego\\Juego\\Juego.csproj",
+        "projectUniqueName": "D:\\taller\\juegorol-leandroVece\\Juego\\Juego\\Juego.csproj",
         "projectName": "Juego",
-        "projectPath": "C:\\Users\\Leo\\source\\repos\\Juego\\Juego\\Juego.csproj",
+        "projectPath": "D:\\taller\\juegorol-leandroVece\\Juego\\Juego\\Juego.csproj",
         "packagesPath": "C:\\Users\\Leo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Leo\\source\\repos\\Juego\\Juego\\obj\\",
+        "outputPath": "D:\\taller\\juegorol-leandroVece\\Juego\\Juego\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -41,6 +41,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

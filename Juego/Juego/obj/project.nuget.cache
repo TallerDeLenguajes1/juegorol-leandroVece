@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "CsRZQX+L8JI48Ig0/LlEb+yqlovOzcIBEaAvCcNPuomJsyclPoDnAMbjQYvw4yvvOmMbQ1jXN/sVv8RXfcwgJg==",
+  "dgSpecHash": "XvM26TzbdzkiuWbQB/4TESq2Ki3ROjcbDjsQIdix7MN3cNHC5PuMCuEU7mLw5wJQmbJS9L6/lOvNRvrxKshJ8A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Leo\\source\\repos\\Juego\\Juego\\Juego.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\taller\\juegorol-leandroVece\\Juego\\Juego\\Juego.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Leo\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

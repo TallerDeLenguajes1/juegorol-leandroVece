@@ -10,6 +10,7 @@ namespace Juego
         private string nombre, apodo;
         private int edad, salud;
         private DateTime FechaNacimiento;
+        private string representante;
 
 
         int velociodad, fuerza, destreza, nivel, armadura;
@@ -24,16 +25,18 @@ namespace Juego
         public int Destreza { get => destreza; set => destreza = value; }
         public int Nivel { get => nivel; set => nivel = value; }
         public int Armadura { get => armadura; set => armadura = value; }
+        public string Representante { get => representante; set => representante = value; }
 
-        public personaje(string nombre, string apodo, int edad, int salud, DateTime fecha)
+        public personaje(string nombre, string apodo, int edad, int salud, DateTime fecha, string representante)
         {
             Random rnd = new Random();
             this.Tipo =  ((TipoPersonaje)rnd.Next(Enum.GetNames(typeof(TipoPersonaje)).Length)).ToString();
             this.Apodo = apodo;
             this.edad = edad;
-            this.FechaNacimiento = fecha;
+            this.FechaNacimiento = DateTime.Parse(fecha.ToString("MM/dd/yyyy"));
             this.Nombre = nombre;
-            this.salud = salud;
+            this.Salud = salud;
+            this.Representante = representante;
 
         }
         enum TipoPersonaje
