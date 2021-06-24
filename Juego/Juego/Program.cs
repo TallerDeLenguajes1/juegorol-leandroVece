@@ -71,12 +71,12 @@ namespace Juego
                     danio2 = Convert.ToInt32(listPersonaje[pj2].danioProvocado());
 
 
-                    Console.WriteLine("daño del rival 1 = {0} ", danio1);
-                    Console.WriteLine("daño del rival 2 = {0} ", danio2);
+                    Console.WriteLine("daño del rival {0} = {1} ", listPersonaje[pj1].Nombre, danio1);
+                    Console.WriteLine("daño del rival {0} = {1} ", listPersonaje[pj2].Nombre, danio2);
                     listPersonaje[pj1].Salud -= danio2;
                     listPersonaje[pj2].Salud -= danio1;
-                    Console.WriteLine("salud del rival 1 = {0}", listPersonaje[pj1].Salud);
-                    Console.WriteLine("salud del rival 2 = {0} \n", listPersonaje[pj2].Salud);
+                    Console.WriteLine("salud del rival {0} = {1} ", listPersonaje[pj1].Nombre, listPersonaje[pj1].Salud);
+                    Console.WriteLine("salud del rival {0} = {1} ", listPersonaje[pj2].Nombre, listPersonaje[pj2].Salud);
 
 
                 }
