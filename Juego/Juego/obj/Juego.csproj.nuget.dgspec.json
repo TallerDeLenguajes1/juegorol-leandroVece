@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\taller\\juegorol-leandroVece\\Juego\\Juego\\Juego.csproj": {}
+    "C:\\Repositorios Git\\facultad\\temp\\juegorol-leandroVece2\\Juego\\Juego\\Juego.csproj": {}
   },
   "projects": {
-    "D:\\taller\\juegorol-leandroVece\\Juego\\Juego\\Juego.csproj": {
+    "C:\\Repositorios Git\\facultad\\temp\\juegorol-leandroVece2\\Juego\\Juego\\Juego.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\taller\\juegorol-leandroVece\\Juego\\Juego\\Juego.csproj",
+        "projectUniqueName": "C:\\Repositorios Git\\facultad\\temp\\juegorol-leandroVece2\\Juego\\Juego\\Juego.csproj",
         "projectName": "Juego",
-        "projectPath": "D:\\taller\\juegorol-leandroVece\\Juego\\Juego\\Juego.csproj",
-        "packagesPath": "C:\\Users\\Leo\\.nuget\\packages\\",
-        "outputPath": "D:\\taller\\juegorol-leandroVece\\Juego\\Juego\\obj\\",
+        "projectPath": "C:\\Repositorios Git\\facultad\\temp\\juegorol-leandroVece2\\Juego\\Juego\\Juego.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Repositorios Git\\facultad\\temp\\juegorol-leandroVece2\\Juego\\Juego\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Leo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -30,6 +30,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -41,6 +42,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Newtonsoft.Json": {
               "target": "Package",
@@ -62,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

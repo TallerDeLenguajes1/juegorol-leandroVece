@@ -26,3 +26,18 @@ D:\taller\juegorol-leandroVece\Juego\Juego\obj\Debug\netcoreapp3.1\Juego.genrunt
 D:\taller\juegorol-leandroVece\Juego\Juego\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 D:\taller\juegorol-leandroVece\Juego\Juego\obj\Debug\netcoreapp3.1\Juego.csproj.CoreCompileInputs.cache
 D:\taller\juegorol-leandroVece\Juego\Juego\obj\Debug\netcoreapp3.1\Juego.csproj.CopyComplete
+C:\Repositorios Git\facultad\temp\juegorol-leandroVece2\Juego\Juego\bin\Debug\netcoreapp3.1\Juego.exe
+C:\Repositorios Git\facultad\temp\juegorol-leandroVece2\Juego\Juego\bin\Debug\netcoreapp3.1\Juego.deps.json
+C:\Repositorios Git\facultad\temp\juegorol-leandroVece2\Juego\Juego\bin\Debug\netcoreapp3.1\Juego.runtimeconfig.json
+C:\Repositorios Git\facultad\temp\juegorol-leandroVece2\Juego\Juego\bin\Debug\netcoreapp3.1\Juego.runtimeconfig.dev.json
+C:\Repositorios Git\facultad\temp\juegorol-leandroVece2\Juego\Juego\bin\Debug\netcoreapp3.1\Juego.dll
+C:\Repositorios Git\facultad\temp\juegorol-leandroVece2\Juego\Juego\bin\Debug\netcoreapp3.1\Juego.pdb
+C:\Repositorios Git\facultad\temp\juegorol-leandroVece2\Juego\Juego\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Repositorios Git\facultad\temp\juegorol-leandroVece2\Juego\Juego\obj\Debug\netcoreapp3.1\Juego.csproj.AssemblyReference.cache
+C:\Repositorios Git\facultad\temp\juegorol-leandroVece2\Juego\Juego\obj\Debug\netcoreapp3.1\Juego.AssemblyInfoInputs.cache
+C:\Repositorios Git\facultad\temp\juegorol-leandroVece2\Juego\Juego\obj\Debug\netcoreapp3.1\Juego.AssemblyInfo.cs
+C:\Repositorios Git\facultad\temp\juegorol-leandroVece2\Juego\Juego\obj\Debug\netcoreapp3.1\Juego.csproj.CoreCompileInputs.cache
+C:\Repositorios Git\facultad\temp\juegorol-leandroVece2\Juego\Juego\obj\Debug\netcoreapp3.1\Juego.csproj.CopyComplete
+C:\Repositorios Git\facultad\temp\juegorol-leandroVece2\Juego\Juego\obj\Debug\netcoreapp3.1\Juego.dll
+C:\Repositorios Git\facultad\temp\juegorol-leandroVece2\Juego\Juego\obj\Debug\netcoreapp3.1\Juego.pdb
+C:\Repositorios Git\facultad\temp\juegorol-leandroVece2\Juego\Juego\obj\Debug\netcoreapp3.1\Juego.genruntimeconfig.cache
